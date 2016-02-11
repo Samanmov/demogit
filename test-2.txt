@@ -1,1 +1,2 @@
 Learning of  branch in git
+new text
